@@ -18,9 +18,8 @@
   <img align="center" alt="iTz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="iTz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="iTzNescau" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/859423912579039264/994784985515032586/download20220704225657.png">
+  <img align="right" alt="iTzNescau" height="150" style="border-radius:50px;" src="./img/ezgif-4-4c914cd2a5.gif">
 </div>
-
-       
    
 ##
 
